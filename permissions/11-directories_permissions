@@ -1,3 +1,3 @@
-#!/bin/bash
-find . -type d -exec chmod a+x {} +
+#!/bin/bash/
+chmo -R +X .
 
