@@ -1,2 +1,2 @@
 #!/bin/bash
-find . $PATH -type d | wc -l  12
+$PATH find . -type d | wc -l  12
