@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((aa/bb/cc/dd/ee/ff/gg/hh/ii/jj/kk/ll/mm/nn/oo))"
+echo "$(({a..a}{a..a}))"
