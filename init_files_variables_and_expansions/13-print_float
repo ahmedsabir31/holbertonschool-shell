@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$((NUM=2.31))"
+printf "%.2f \n" $MYNUM
